@@ -1,1 +1,9 @@
-Algoritmo de la semana
+Pregunta 5 (Algoritmo para compartir información confiable):
+
+1. Buscar la información en fuentes reconocidas y actualizadas
+2. Revisar la autoría y fecha de publicación de la fuente
+3. Confirmar la noticia contrastándola con al menos dos fuentes diferentes
+4. Verificar que los datos no estén descontextualizados o manipulados
+5. Identificar si el contenido tiene sesgos o intereses particulares
+6. Compartir el enlace o la información agregando la fuente original
+7. Invitar a los receptores a verificar por sí mismos la informaciónAlgoritmo de la semana
